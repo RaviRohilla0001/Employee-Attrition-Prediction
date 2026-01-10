@@ -1,2 +1,2 @@
 # Employee-Attrition-Prediction06
-This program applies machine learning to predict employee attrition by cleaning and preprocessing HR data, training multiple models, evaluating their performance, and identifying key factors influencing attrition using XGBoost feature importance.
+This program predicts employee turnover by pre-processing HR data, training several machine learning models, and evaluating their performance. XGBoost was selected as the final model due to its superior accuracy, and XGBoost feature importance is used to identify the key factors influencing employee turnover.
